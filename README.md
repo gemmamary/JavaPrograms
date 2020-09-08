@@ -1,8 +1,8 @@
 # Collection of Java Programs
 
 ## Run programs
-Clone the repository
-Run the program in Eclipse or the command line
+- Clone the repository
+- Run the program in Eclipse or the command line
 
 ## Character Matrix
 - Enter a number between 5 and 10 
